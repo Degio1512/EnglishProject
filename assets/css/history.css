@@ -137,7 +137,6 @@ hr.light-100 {
   height: 60px;
 }
 
-
 /*---Media Queries --*/
 @media (max-width: 1500px){
   .carousel-inner img{
@@ -231,4 +230,35 @@ hr.light-100 {
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
     padding: 1rem;
+}
+
+.storiadestra{
+  position: absolute;
+  width: 100%;
+  font-style: 'Poppins', sans-serif;
+}
+.storiadestra h1{
+  font-size: 3.0rem;
+  font-weight: 500;
+  padding-top: 1rem;
+  text-align: center;
+  font-style: italic;
+  color: rgb(255, 0, 0);
+}
+.storiadestra h2{
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding-top: 1rem;
+  text-align: center;
+  font-style: 'Poppins', sans-serif;
+  color: #ffffff;
+  margin-right: 20px;
+}
+.img{
+  width: 100%;
+  height: 100%;
+}
+.imgsinistra{
+  margin-top: 100px;
+  margin-left: 100px;
 }
