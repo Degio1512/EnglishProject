@@ -297,10 +297,20 @@ hr.light-100 {
   margin-left: 120px;
 }
 
+.imggeorgeI{
+  margin-top: 950px;
+  margin-left: 1350px;
+}
+
+.imggeorgeII{
+  margin-top: 350px;
+  margin-left: 120px;
+}
+
 .storiasinistra h1 span{
-  color: #0400ff;
+  color: #ff0000;
 }
 
 .storiadestra h3 span{
-  color: #0400ff;
+  color: #ff0000;
 }
