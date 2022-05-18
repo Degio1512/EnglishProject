@@ -5,7 +5,7 @@ html, body{
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color:#222;
-  background-image: url(../img/sfondo.png);
+  background-image: url(../../img/sfondo.png);
 }
 .navbar{
   padding: .8rem;
@@ -233,13 +233,12 @@ hr.light-100 {
     padding: 1rem;
 }
 
-
-.storiadestra{
+.robinson{
   position: absolute;
   width: 100%;
   font-style: 'Poppins', sans-serif;
 }
-.storiadestra h1{
+.robinson h1{
   font-size: 3.0rem;
   font-weight: 500;
   padding-top: 1rem;
@@ -247,7 +246,7 @@ hr.light-100 {
   font-style: italic;
   color: rgb(255, 0, 0);
 }
-.storiadestra h2{
+.robinson h2{
   font-size: 1.2rem;
   font-weight: 500;
   padding-top: 1rem;
@@ -257,59 +256,15 @@ hr.light-100 {
   margin-right: 20px;
 }
 
-.storiadestra h3{
-  text-align: left ;
+.robinson h3{
+  text-align: center ;
   font-size: 1.2rem;
-  margin-top: -300px;
-  margin-left: 600px;
+  margin-top: 50px;
   font-style: 'Poppins', sans-serif;
   color: #ffffff;
 }
 
-.img{
-  width: 100%;
-  height: 100%;
-}
-.imgsinistra{
-  margin-top: 100px;
-  margin-left: 100px;
-}
-
-.imgdestra{
-  margin-top: 950px;
-  margin-left: 1350px;
-}
-
-.storiasinistra{
-  width: 100%;
-  font-style: 'Poppins', sans-serif;
-}
-
-.storiasinistra h1{
-  text-align: left ;
-  font-size: 1.2rem;
-  margin-top: -350px;
-  margin-left: 70px;
-  font-style: 'Poppins', sans-serif;
-  color: #fff;
-}
-
-.imganne{
-  margin-top: 200px;
-  margin-left: 120px;
-}
-
-.imggeorgeI{
-  margin-top: 950px;
-  margin-left: 1350px;
-}
-
-.imggeorgeII{
-  margin-top: 350px;
-  margin-left: 120px;
-}
-
-.storiasinistra h1 span{
+.robinson h3 span{
   color: #ff0000;
 }
 
@@ -350,61 +305,21 @@ span:hover .popup{
   }
 }
 
-.storiadestra h3 span a{
-  color: #ff0000;
-}
-.storiadestra h3 span{
-  color: #ff0000;
-}
-
-.storiasinistra h1 span{
-  color: #ff0000;
+.seldomidle{
+  position: absolute;
+  width: 100%;
+  margin-left: 30px;
+  margin-top: 400px;
 }
 
-.storiasinistra h1 span a{
-  color: #ff0000;
+.manfriday{
+  width: 100%;
+  margin-left: 1370px;
+  margin-top: 400px;
 }
 
-.imgblake{
-  margin-top: 350px;
-  margin-left: 120px;
-}
-
-.imgwordswroth{
-  margin-top: 1150px;
-  margin-left: 1350px;
-}
-
-.imgColoriedge{
-  margin-top: 350px;
-  margin-left: 120px;
-}
-
-.imgByron{
-  margin-top: 1150px;
-  margin-left: 1350px;
-}
-
-.imgShelly{
-  margin-top: 350px;
-  margin-left: 120px;
-}
-
-.imgKeats{
-  margin-top: 1150px;
-  margin-left: 1350px;
-}
-
-.imgPoe{
-  margin-top: 350px;
-  margin-left: 120px;
-}
-
-.ral{
-  font-size: 3.0rem;
-  font-weight: 500;
-  padding-top: 300px;
-  text-align: center;
-  font-style: italic;
-  color: rgb(255, 0, 0);
+.yhaoo{
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 630px;
 }
