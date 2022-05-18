@@ -5,7 +5,7 @@ html, body{
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color:#222;
-  background-image: url(../img/sfondo.png);
+  background-image: url(../../img/sfondo.png);
 }
 .navbar{
   padding: .8rem;
@@ -231,4 +231,36 @@ hr.light-100 {
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
     padding: 1rem;
+}
+
+.gulliver{
+  position: absolute;
+  width: 100%;
+  font-style: 'Poppins', sans-serif;
+}
+.gulliver h1{
+  font-size: 3.0rem;
+  font-weight: 500;
+  padding-top: 1rem;
+  text-align: center;
+  font-style: italic;
+  color: rgb(255, 0, 0);
+}
+.gulliver h2{
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding-top: 1rem;
+  text-align: center;
+  font-style: 'Poppins', sans-serif;
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.gulliver h3{
+  text-align: left ;
+  font-size: 1.2rem;
+  margin-top: -300px;
+  margin-left: 600px;
+  font-style: 'Poppins', sans-serif;
+  color: #ffffff;
 }
